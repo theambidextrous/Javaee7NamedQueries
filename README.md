@@ -1,5 +1,4 @@
 # Getting started with JavaEE7 named queries and Entity manager annotations and Java servelets using Netbeans and Glassfish server
-<h1>Getting started with JavaEE7 named queries and Entity manager annotations and Java servelets using <b>Netbeans and Glassfish server</b></h1>
 <p>This is an simple way to help you get started with with JAVA EE 7 ANNOTATIONS. In this project, we will be interacting with the following keywords:-</p>
 <ul>
   <li>Java EE7</li>
