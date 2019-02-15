@@ -15,4 +15,6 @@
 </ul>
 <p>In this project, i assume you have netbeans IDE and glassfish server setup and ready to do great stuff!
   
- In the project folder you will find a MYSQL database dump file, 1 servelet, 4 entity classses from database
+ In the project folder you will find a MYSQL database dump file, 1 servelet, 4 entity classses from database</p>
+ <b>SCREEN SHOTS - FINAL PRODUCT</b>
+ <img src="https://github.com/theambidextrous/NetBeansProjects/blob/master/EntityClassServelet/snap.PNG?raw=true"/>
